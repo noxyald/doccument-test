@@ -1,4 +1,4 @@
 Here's how to run the program test
-1. open folder doccument-test
-2. open folder Client, jalankan program npm run dev
-3. open folder server, jalankan node js init
+1. Open the document-test folder
+2. Open the Client folder, run the npm run dev program
+3. open the server folder, run node js init
