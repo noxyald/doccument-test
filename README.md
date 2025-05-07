@@ -5,4 +5,4 @@ Here's how to run the program test
 
 Here is the process I just worked on
 
-![Screenshot_1]([https://github.com/username/test/assets/108919293/d8206e8b-5c62-49f9-94e4-19b9d9d5c6e6](https://github.com/noxyald/doccument-test/blob/main/login-images.png))
+![Screenshot_1](https://github.com/noxyald/doccument-test/blob/main/login-images.png)
